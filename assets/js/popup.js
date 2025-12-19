@@ -12,7 +12,9 @@
     bd.innerHTML = `
       <div class="modal" role="dialog" aria-modal="true" aria-label="Policy Notice">
         <h3>Policy Notice</h3>
-        <p>Are you accepting our policy to play the game? This notice is informational and does not block access.</p>
+        <p>
+Lions like cookies!
+We use cookies to improve our website and analyse traffic to make sure you have the best and safest experience. More information is available in our cookies policy.</p>
         <div class="modal-actions">
           <button class="btn" id="age-yes">Yes, Accept</button>
           <button class="btn ghost" id="age-no">Close</button>
